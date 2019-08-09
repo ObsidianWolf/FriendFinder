@@ -2,10 +2,10 @@
 
 ## Why is this important?
 - Friendship apps allow us to expand our networks in a way that was not  
-possible previously. 
-- They take the guessing work out of the equation.
+possible previously. (**New**)
+- They take the guessing work out of the equation.(**Easy**)
 - They create a safe virtual space in which  
-we are free to explore possible new friendships. 
+we are free to explore possible new friendships. (**Safe**)
 
 ## What does it do?
 This full-stack site takes in results from your users' surveys, then compares  
